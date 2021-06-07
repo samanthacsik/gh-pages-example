@@ -11,6 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## My first GitHub Page
 
-Make some intial edits to my `.Rmd` file and now I'm going to save and knit.
+Make some initial edits to my `.Rmd` file and now I'm going to save and knit.
 
 **IMPORTANT:** Be sure to name your saved .Rmd file as 'index.Rmd' and save to your root directory.
